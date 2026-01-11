@@ -1,4 +1,5 @@
 # 🚦 Smart Traffic Violation Pattern Detector Dashboard 
+
 🔍 A Streamlit-based dashboard to analyze, visualize, and detect patterns in traffic violation data using interactive charts, maps, and trend analysis.
 
 
@@ -139,4 +140,5 @@ The main dependencies for this project are listed in the `pyproject.toml` file. 
 
 
 ---
+
 
